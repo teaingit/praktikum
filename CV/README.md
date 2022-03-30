@@ -13,8 +13,8 @@
 Фотографии лиц с возрастом
 
 ## Используемые библиотеки
-1. pandas 
-2. tensorflow.keras
-3. numpy
-4. matplotlib.pyplot
-5. seaborn
+ - pandas 
+ - tensorflow.keras
+ - numpy
+ - matplotlib.pyplot
+ - seaborn
